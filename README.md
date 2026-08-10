@@ -33,13 +33,18 @@ This project analyzes the Sample Superstore dataset using MySQL. The objective i
 - Loss Making Sub-Categories
 - Profit Analysis
 - Customer Analysis
+
+
 📁 Project Structure
 text
+
+
 SQL-SUPERSTORE-SALES-ANALYSIS
 │
 ├── Dataset
 ├── SQL
 ├── Screenshots
 └── README.md
+
 👩‍💻Author
 Sanya Wadhwa
