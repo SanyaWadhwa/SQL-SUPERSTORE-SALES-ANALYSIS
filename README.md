@@ -22,9 +22,7 @@ This project analyzes the Sample Superstore dataset using MySQL. The objective i
 - Subqueries
 - Common Table Expressions (CTE)
 - Window Functions
-- Views
-- Stored Procedures
-- Triggers
+- VIEWS
 📈 Business Problems Solved
 - Total Sales Analysis
 - Region-wise Sales
